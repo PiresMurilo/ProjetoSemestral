@@ -5,8 +5,7 @@ Primeiro projeto proposto pela disciplina de LG1A1 - Lógica de Programação
 
 ## ⚙️ Especificação do trabalho
 Gerar a aplicação para gerenciar o drive thru do Mickey & Donald.
-O sistema tem por objetivo realizar a venda de produtos alimentícios, gerenciando a oferta (menu de produtos), o pedido do cliente,
-<br/>a forma de pagamento e a fila de atendimentos.
+O sistema tem por objetivo realizar a venda de produtos alimentícios, gerenciando a oferta (menu de produtos), o pedido do cliente, a forma de pagamento e a fila de atendimentos.
 
 ## 🛠️ Construído com
 
